@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Khaja Pasha 👋
 
-<!--
-**khajapasha07/khajapasha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student at Sreyas Institute of Engineering and Technology
 
-Here are some ideas to get you started:
+💻 Passionate about programming, electronics, and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Python
+- C Programming
+- Git & GitHub
+
+🏆 Active IEEE Volunteer and interested in technical events and innovation.
+
+🚀 Goal:
+To improve my skills and build projects that solve real-world problems.
+
+📫 Connect with me:
+- GitHub: @khajapasha07
+
+Thanks for visiting my profile! 😊
